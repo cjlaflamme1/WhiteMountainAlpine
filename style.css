@@ -8,8 +8,18 @@ nav {
     background-color: #f1f1f1;
 }
 
+span.largeScreenCompanyName {
+    font-size: 25px;
+}
+
 span.smallScreenCompanyName {
     display: none;
+}
+
+
+footer.footer {
+    background-color: #f1f1f1;
+
 }
 
 @media (max-width: 499px) {
