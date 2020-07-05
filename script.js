@@ -4,3 +4,4 @@ navbarTogglerButton.addEventListener('click', function(){
     const navbarTogglerDisplay = document.getElementById('navbarTogglerDisplay');
     navbarTogglerDisplay.classList.toggle('show');
 })
+

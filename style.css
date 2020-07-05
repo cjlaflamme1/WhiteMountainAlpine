@@ -27,7 +27,7 @@ i.socialMediaFooter {
     margin-right: 5px;
 }
 
-@media (max-width: 499px) {
+@media (max-width: 510px) {
     nav > a > img {
         display: none;
     }
