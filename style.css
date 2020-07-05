@@ -4,6 +4,12 @@
     font-family: 'Merriweather', Arial, Helvetica, sans-serif;
 }
 
+body {
+    background-image: url(./images/snowMountain.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 nav {
     background-color: #f1f1f1;
 }
